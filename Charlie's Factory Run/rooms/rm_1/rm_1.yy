@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rm_1",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -16,7 +16,7 @@
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
   ],
   "layers": [
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"ground1","instances":[
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Ground1","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_46969D0E","properties":[],"isDnd":false,"objectId":{"name":"obj_ground1","path":"objects/obj_ground1/obj_ground1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4B008E3D","properties":[],"isDnd":false,"objectId":{"name":"obj_ground1","path":"objects/obj_ground1/obj_ground1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7CA56B94","properties":[],"isDnd":false,"objectId":{"name":"obj_ground1","path":"objects/obj_ground1/obj_ground1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":576.0,},
@@ -32,12 +32,12 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_2575C81C","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_46969D0E","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_4B008E3D","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_7CA56B94","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_13055739","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_176CC0D3","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2575C81C","path":"rooms/rm_1/rm_1.yy",},
+    {"name":"inst_46969D0E","path":"rooms/rm_1/rm_1.yy",},
+    {"name":"inst_4B008E3D","path":"rooms/rm_1/rm_1.yy",},
+    {"name":"inst_7CA56B94","path":"rooms/rm_1/rm_1.yy",},
+    {"name":"inst_13055739","path":"rooms/rm_1/rm_1.yy",},
+    {"name":"inst_176CC0D3","path":"rooms/rm_1/rm_1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
