@@ -34,7 +34,7 @@ else {
 move_and_collide(move_x, move_y, obj_ground1);
 
 // ############### OUTSIDE ROOM ###############
-if (y < -20 || y > room_height+20 || x < -20 || x > room_width +20) {
+if (y < -200 || y > room_height+200 || x < -20 || x > room_width +20) {
 	room_restart(); //Restart room if object is outside the room
 }
 
