@@ -39,6 +39,7 @@
     {"id":{"name":"spr_ground3","path":"sprites/spr_ground3/spr_ground3.yy",},"order":6,},
     {"id":{"name":"spr_charlie_right","path":"sprites/spr_charlie_right/spr_charlie_right.yy",},"order":12,},
     {"id":{"name":"obj_ground2","path":"objects/obj_ground2/obj_ground2.yy",},"order":4,},
+    {"id":{"name":"spr_charlie_right2","path":"sprites/spr_charlie_right2/spr_charlie_right2.yy",},"order":16,},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"order":15,},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":0,},
   ],
