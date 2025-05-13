@@ -6,14 +6,14 @@ with(other) instance_destroy();
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
-/// @DnDHash : 0088682E
+/// @DnDHash : 684B9059
 /// @DnDArgument : "soundid" "Collect_Item_Sound_Effect__1_"
 /// @DnDSaveInfo : "soundid" "Collect_Item_Sound_Effect__1_"
 audio_play_sound(Collect_Item_Sound_Effect__1_, 0, 0, 1.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
-/// @DnDHash : 153F1A51
+/// @DnDHash : 6CAF85FD
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "7"
