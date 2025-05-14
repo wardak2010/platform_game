@@ -22,6 +22,8 @@
     {"id":{"name":"obj_ladder1","path":"objects/obj_ladder1/obj_ladder1.yy",},"order":9,},
     {"id":{"name":"obj_background2","path":"objects/obj_background2/obj_background2.yy",},"order":3,},
     {"id":{"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},"order":0,},
+    {"id":{"name":"obj_charlie4","path":"objects/obj_charlie4/obj_charlie4.yy",},"order":22,},
+    {"id":{"name":"obj_hole4","path":"objects/obj_hole4/obj_hole4.yy",},"order":21,},
     {"id":{"name":"spr_oompaloompa","path":"sprites/spr_oompaloompa/spr_oompaloompa.yy",},"order":18,},
     {"id":{"name":"obj_lollipop","path":"objects/obj_lollipop/obj_lollipop.yy",},"order":2,},
     {"id":{"name":"obj_ground3","path":"objects/obj_ground3/obj_ground3.yy",},"order":6,},
@@ -44,6 +46,7 @@
     {"id":{"name":"spr_background3","path":"sprites/spr_background3/spr_background3.yy",},"order":5,},
     {"id":{"name":"spr_ground3","path":"sprites/spr_ground3/spr_ground3.yy",},"order":6,},
     {"id":{"name":"spr_charlie_right","path":"sprites/spr_charlie_right/spr_charlie_right.yy",},"order":12,},
+    {"id":{"name":"obj_charlie3","path":"objects/obj_charlie3/obj_charlie3.yy",},"order":20,},
     {"id":{"name":"obj_ground2","path":"objects/obj_ground2/obj_ground2.yy",},"order":4,},
     {"id":{"name":"spr_lollipop2","path":"sprites/spr_lollipop2/spr_lollipop2.yy",},"order":22,},
     {"id":{"name":"spr_charlie_right2","path":"sprites/spr_charlie_right2/spr_charlie_right2.yy",},"order":21,},
@@ -68,10 +71,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_4","path":"rooms/rm_4/rm_4.yy",},},
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
     {"roomId":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
-    {"roomId":{"name":"rm_4","path":"rooms/rm_4/rm_4.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
