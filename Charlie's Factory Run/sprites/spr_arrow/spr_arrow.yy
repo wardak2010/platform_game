@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Charlie's Factory Run",
-    "path": "Charlie's Factory Run.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

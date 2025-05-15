@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Charlie's Factory Run",
-    "path": "Charlie's Factory Run.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

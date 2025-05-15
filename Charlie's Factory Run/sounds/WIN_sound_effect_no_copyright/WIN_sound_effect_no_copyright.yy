@@ -17,7 +17,7 @@
   "soundFile": "WIN_sound_effect_no_copyright.mp3",
   "duration": 1.854694,
   "parent": {
-    "name": "Charlie's Factory Run",
-    "path": "Charlie's Factory Run.yyp",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
 }

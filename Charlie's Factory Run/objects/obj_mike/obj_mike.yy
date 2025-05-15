@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_door_open",
+  "name": "obj_mike",
   "spriteId": {
-    "name": "spr_door_open",
-    "path": "sprites/spr_door_open/spr_door_open.yy",
+    "name": "spr_mike",
+    "path": "sprites/spr_mike/spr_mike.yy",
   },
   "solid": false,
   "visible": true,
