@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_charlie3","path":"objects/obj_charlie3/obj_charlie3.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

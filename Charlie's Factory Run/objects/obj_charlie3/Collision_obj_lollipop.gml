@@ -35,7 +35,15 @@ lollipop_count = instance_number(obj_lollipop);
 /// @DnDArgument : "var" "lollipop_count"
 if(lollipop_count == 0)
 {
-
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 1DE81D8E
+	/// @DnDParent : 75597637
+	/// @DnDArgument : "xpos" "-31"
+	/// @DnDArgument : "ypos" "405"
+	/// @DnDArgument : "objectid" "obj_door_open"
+	/// @DnDSaveInfo : "objectid" "obj_door_open"
+	instance_create_layer(-31, 405, "Instances", obj_door_open);
 }
 
 /// @DnDAction : YoYo Games.Common.Set_Global
