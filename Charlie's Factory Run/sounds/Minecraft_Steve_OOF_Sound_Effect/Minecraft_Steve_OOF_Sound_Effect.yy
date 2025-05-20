@@ -17,7 +17,7 @@
   "soundFile": "Minecraft_Steve_OOF_Sound_Effect.mp3",
   "duration": 0.705306,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Charlie's Factory Run",
+    "path": "Charlie's Factory Run.yyp",
   },
 }
